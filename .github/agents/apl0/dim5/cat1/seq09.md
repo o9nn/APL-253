@@ -1,4 +1,9 @@
-# Sequence 9: Work
+---
+name: seq09
+description: Sequence 9: Work
+---
+
+# SEQ09 Instructions
 
 ## Description
 Sequence 9 focuses on work

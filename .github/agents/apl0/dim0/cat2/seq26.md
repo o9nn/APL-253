@@ -1,4 +1,9 @@
-# Sequence 26: Inside, attach necessary minor rooms and alcoves
+---
+name: seq26
+description: Sequence 26: Inside, attach necessary minor rooms and alcoves
+---
+
+# SEQ26 Instructions
 
 ## Description
 Sequence 26 focuses on inside, attach necessary minor rooms and alcoves

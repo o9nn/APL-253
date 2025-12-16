@@ -1,4 +1,9 @@
-# Meta-Pattern 0: A Pattern Language
+---
+name: apl0
+description: Meta-Pattern 0: A Pattern Language
+---
+
+# APL0 Instructions
 
 ## Overview
 This is the meta-pattern that defines the entire Pattern Language system consisting of 253 interconnected patterns organized across multiple dimensions and scales.

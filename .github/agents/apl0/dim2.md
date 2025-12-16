@@ -1,4 +1,9 @@
-# dim2 - Physical Dimension
+---
+name: dim2
+description: dim2 - Physical Dimension
+---
+
+# DIM2 Instructions
 
 ## Description
 Spatial, material, and architectural patterns in the built environment

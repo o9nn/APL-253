@@ -1,4 +1,9 @@
-# Sequence 18: Entrances, gardens, courtyards, roofs and terraces
+---
+name: seq18
+description: Sequence 18: Entrances, gardens, courtyards, roofs and terraces
+---
+
+# SEQ18 Instructions
 
 ## Description
 Sequence 18 focuses on entrances, gardens, courtyards, roofs and terraces

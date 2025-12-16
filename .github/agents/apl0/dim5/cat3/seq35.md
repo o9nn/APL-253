@@ -1,4 +1,9 @@
-# Sequence 35: Build outdoor details
+---
+name: seq35
+description: Sequence 35: Build outdoor details
+---
+
+# SEQ35 Instructions
 
 ## Description
 Sequence 35 focuses on build outdoor details

@@ -1,4 +1,9 @@
-# Sequence 20: Gradients and connection of space
+---
+name: seq20
+description: Sequence 20: Gradients and connection of space
+---
+
+# SEQ20 Instructions
 
 ## Description
 Sequence 20 focuses on gradients and connection of space

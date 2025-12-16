@@ -1,4 +1,9 @@
-# Sequence 3: Major structures which define the city
+---
+name: seq03
+description: Sequence 3: Major structures which define the city
+---
+
+# SEQ03 Instructions
 
 ## Description
 Sequence 3 focuses on major structures which define the city

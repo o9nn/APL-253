@@ -1,4 +1,9 @@
-# Broader Patterns for apl166
+---
+name: broader
+description: Broader Patterns for apl166
+---
+
+# BROADER Instructions
 
 These patterns provide context and are typically applied before this pattern:
 

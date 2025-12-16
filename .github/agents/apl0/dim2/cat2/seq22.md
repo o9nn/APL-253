@@ -1,4 +1,9 @@
-# Sequence 22: The most important areas and rooms (in offices, workshops and public buildings)
+---
+name: seq22
+description: Sequence 22: The most important areas and rooms (in offices, workshops and public buildings)
+---
+
+# SEQ22 Instructions
 
 ## Description
 Sequence 22 focuses on the most important areas and rooms (in offices, workshops and public buildings)

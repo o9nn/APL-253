@@ -1,4 +1,9 @@
-# Sequence 19: Paths and squares
+---
+name: seq19
+description: Sequence 19: Paths and squares
+---
+
+# SEQ19 Instructions
 
 ## Description
 Sequence 19 focuses on paths and squares

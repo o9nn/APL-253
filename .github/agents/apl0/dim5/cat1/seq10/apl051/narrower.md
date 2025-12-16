@@ -1,4 +1,9 @@
-# Narrower Patterns for apl051
+---
+name: narrower
+description: Narrower Patterns for apl051
+---
+
+# NARROWER Instructions
 
 These patterns provide detail and are typically applied after this pattern:
 

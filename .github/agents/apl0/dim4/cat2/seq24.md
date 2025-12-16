@@ -1,4 +1,9 @@
-# Sequence 24: Knit the inside of the building to the outside
+---
+name: seq24
+description: Sequence 24: Knit the inside of the building to the outside
+---
+
+# SEQ24 Instructions
 
 ## Description
 Sequence 24 focuses on knit the inside of the building to the outside

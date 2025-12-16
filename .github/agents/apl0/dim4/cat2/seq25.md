@@ -1,4 +1,9 @@
-# Sequence 25: Arrange the gardens, and the places in the gardens
+---
+name: seq25
+description: Sequence 25: Arrange the gardens, and the places in the gardens
+---
+
+# SEQ25 Instructions
 
 ## Description
 Sequence 25 focuses on arrange the gardens, and the places in the gardens

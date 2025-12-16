@@ -1,4 +1,9 @@
-# Broader Patterns for apl153
+---
+name: broader
+description: Broader Patterns for apl153
+---
+
+# BROADER Instructions
 
 These patterns provide context and are typically applied before this pattern:
 

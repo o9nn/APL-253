@@ -1,4 +1,9 @@
-# Sequence 11: Public open land
+---
+name: seq11
+description: Sequence 11: Public open land
+---
+
+# SEQ11 Instructions
 
 ## Description
 Sequence 11 focuses on public open land

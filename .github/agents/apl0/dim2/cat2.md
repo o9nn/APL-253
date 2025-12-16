@@ -1,4 +1,9 @@
-# cat2 Category
+---
+name: cat2
+description: cat2 Category
+---
+
+# CAT2 Instructions
 
 ## Description
 Patterns that give shape to groups of buildings and individual buildings in three dimensions.

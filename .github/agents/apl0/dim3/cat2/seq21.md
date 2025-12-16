@@ -1,4 +1,9 @@
-# Sequence 21: The most important areas and rooms (in a house)
+---
+name: seq21
+description: Sequence 21: The most important areas and rooms (in a house)
+---
+
+# SEQ21 Instructions
 
 ## Description
 Sequence 21 focuses on the most important areas and rooms (in a house)

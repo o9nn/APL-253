@@ -1,4 +1,9 @@
-# Sequence 4: Communities and neighborhoods
+---
+name: seq04
+description: Sequence 4: Communities and neighborhoods
+---
+
+# SEQ04 Instructions
 
 ## Description
 Sequence 4 focuses on communities and neighborhoods

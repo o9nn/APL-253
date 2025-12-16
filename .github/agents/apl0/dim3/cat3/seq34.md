@@ -1,4 +1,9 @@
-# Sequence 34: Put in the surfaces and indoor details
+---
+name: seq34
+description: Sequence 34: Put in the surfaces and indoor details
+---
+
+# SEQ34 Instructions
 
 ## Description
 Sequence 34 focuses on put in the surfaces and indoor details

@@ -1,4 +1,9 @@
-# dim1 - Template Dimension
+---
+name: dim1
+description: dim1 - Template Dimension
+---
+
+# DIM1 Instructions
 
 ## Description
 Generic template patterns serving as basis for domain-specific variations

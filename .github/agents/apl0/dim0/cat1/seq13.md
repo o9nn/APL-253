@@ -1,4 +1,9 @@
-# Sequence 13: Transformation of the family
+---
+name: seq13
+description: Sequence 13: Transformation of the family
+---
+
+# SEQ13 Instructions
 
 ## Description
 Sequence 13 focuses on transformation of the family

@@ -1,4 +1,9 @@
-# Sequence 29: Let the structure grow directly from your plans and your conception of the buildings
+---
+name: seq29
+description: Sequence 29: Let the structure grow directly from your plans and your conception of the buildings
+---
+
+# SEQ29 Instructions
 
 ## Description
 Sequence 29 focuses on let the structure grow directly from your plans and your conception of the buildings

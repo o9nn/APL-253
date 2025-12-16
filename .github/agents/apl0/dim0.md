@@ -1,4 +1,9 @@
-# dim0 - Archetypal Dimension
+---
+name: dim0
+description: dim0 - Archetypal Dimension
+---
+
+# DIM0 Instructions
 
 ## Description
 Abstract patterns with domain-specific placeholders that can be instantiated across any domain

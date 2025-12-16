@@ -1,4 +1,9 @@
-# cat3 Category
+---
+name: cat3
+description: cat3 Category
+---
+
+# CAT3 Instructions
 
 ## Description
 Patterns that create buildable buildings directly from rough schemes of spaces. These patterns give you the exact geometry of the built up elements which define the spaces.

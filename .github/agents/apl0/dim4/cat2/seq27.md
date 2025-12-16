@@ -1,4 +1,9 @@
-# Sequence 27: Fine tune the shape and size of rooms and alcoves
+---
+name: seq27
+description: Sequence 27: Fine tune the shape and size of rooms and alcoves
+---
+
+# SEQ27 Instructions
 
 ## Description
 Sequence 27 focuses on fine tune the shape and size of rooms and alcoves

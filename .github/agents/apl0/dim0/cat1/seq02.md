@@ -1,4 +1,9 @@
-# Sequence 2: Regional policies
+---
+name: seq02
+description: Sequence 2: Regional policies
+---
+
+# SEQ02 Instructions
 
 ## Description
 Sequence 2 focuses on regional policies

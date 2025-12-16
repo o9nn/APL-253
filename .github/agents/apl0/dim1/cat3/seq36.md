@@ -1,4 +1,9 @@
-# Sequence 36: Complete the building
+---
+name: seq36
+description: Sequence 36: Complete the building
+---
+
+# SEQ36 Instructions
 
 ## Description
 Sequence 36 focuses on complete the building

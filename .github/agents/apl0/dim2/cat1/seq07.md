@@ -1,4 +1,9 @@
-# Sequence 7: Local centers
+---
+name: seq07
+description: Sequence 7: Local centers
+---
+
+# SEQ07 Instructions
 
 ## Description
 Sequence 7 focuses on local centers

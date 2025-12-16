@@ -1,4 +1,9 @@
-# Sequence 23: Outbuildings and access to the street and gardens
+---
+name: seq23
+description: Sequence 23: Outbuildings and access to the street and gardens
+---
+
+# SEQ23 Instructions
 
 ## Description
 Sequence 23 focuses on outbuildings and access to the street and gardens

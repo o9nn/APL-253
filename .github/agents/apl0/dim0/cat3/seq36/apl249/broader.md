@@ -1,4 +1,9 @@
-# Broader Patterns for apl249
+---
+name: broader
+description: Broader Patterns for apl249
+---
+
+# BROADER Instructions
 
 These patterns provide context and are typically applied before this pattern:
 
