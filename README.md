@@ -1,0 +1,204 @@
+# p235
+
+This repository contains collections of design patterns and organizational metaphors with formal specifications, including a **virtual hardware implementation (NPU-253)** for accelerated pattern operations.
+
+## 🚀 NPU-253: Neural Processing Unit / Natural Patterning Unit
+
+**NEW:** Virtual hardware device implementing the 253-pattern language as a memory-mapped coprocessor!
+
+```python
+from npu253 import PatternCoprocessorDriver, NPUConfig
+
+npu = PatternCoprocessorDriver(NPUConfig())
+npu.load()
+
+# Query patterns
+pattern = npu.query_by_id(1)
+print(f"{pattern.name}: {pattern.solution}")
+
+# Domain transformation
+social = npu.transform_pattern("12610010", "social")
+```
+
+**Features:**
+- 🔧 Hardware-style MMIO register interface
+- 🎯 253 APL patterns + 253 archetypal patterns
+- 🔄 Domain transformation (physical/social/conceptual/psychic)
+- ⚡ LRU caching for performance
+- 📊 Telemetry and diagnostics
+- ✅ 34 passing tests
+
+**Documentation:**
+- [NPU-253 Blueprint](NPU253_BLUEPRINT.md) - Architecture and design
+- [NPU-253 API](NPU253_API.md) - Complete API reference
+- [npu253/README.md](npu253/README.md) - Package documentation
+- [Demo](demo_npu253.py) | [Tests](test_npu253.py)
+
+```bash
+# Run demo
+python3 demo_npu253.py
+
+# Run tests
+python3 test_npu253.py
+```
+
+## 📖 Documentation
+
+### Formal Specifications
+- **[Formal Specification Summary](FORMAL_SPECIFICATION_SUMMARY.md)** - Complete overview of architecture and Z++ specifications
+- **[docs/](docs/)** - Comprehensive technical documentation (2,328 lines)
+  - Architecture overview with Mermaid diagrams
+  - Z++ formal specifications (data model, system state, operations, integrations)
+  - Usage guide for specifications
+
+### Pattern Collections
+
+- **APL**: Christopher Alexander's "A Pattern Language" (253 patterns) - architectural and urban design patterns
+- **UIA**: Union of International Associations "Patterns & Metaphors" (253 patterns) - organizational and conceptual patterns
+
+## Markdown Versions
+
+The `markdown/` directory contains converted versions of all APL and UIA pages in markdown format for improved readability and accessibility:
+
+- **`markdown/apl/`**: 253 A Pattern Language patterns (apl001.md - apl253.md)
+- **`markdown/uia/`**: 253 UIA Patterns & Metaphors (12610010.md - 12612530.md)
+- **`markdown/arc/`**: 102 Archetypal Patterns extracted from UIA templates with domain-specific placeholders
+
+See `markdown/README.md` for detailed information about the conversion process and markdown structure.
+
+## Pattern Language Schema
+
+The repository includes formalized JSON schemas for both the Pattern Language and Archetypal Patterns:
+
+### APL Pattern Language Schema
+
+- **Pattern Language Schema** (`pattern_language_generated.json`) - Complete meta-pattern, categories, and sequences
+- **Pattern Sequences** (`pattern_sequences.json`) - All 36 pattern sequences with emergent phenomena
+- **Categories** (`category_*.json`) - Towns, Buildings, and Construction categories
+
+See `PATTERN_SCHEMA_README.md` for detailed information about the APL schema structure.
+
+### Archetypal Pattern Schema
+
+- **Archetypal Pattern Schema** (`archetypal_pattern_schema.json`) - JSON schema for archetypal patterns
+- **Archetypal Patterns** (`archetypal_patterns.json`) - All 102 archetypal patterns with domain mappings
+- **Placeholder Reference** (`archetypal_placeholders.json`) - Complete placeholder documentation
+
+Archetypal patterns use the format: `"generic {{domain-specific}} generic"` and can be transformed across:
+- **Physical** - Spatial, material, architectural domains
+- **Social** - Organizational, community, institutional domains
+- **Conceptual** - Knowledge, theoretical, paradigmatic domains
+- **Psychic** - Awareness, consciousness, mental domains
+
+See `ARCHETYPAL_SCHEMA_README.md` for detailed information about the archetypal pattern schema.
+
+### Generating Schemas
+
+```bash
+# Generate APL Pattern Language schema
+python3 generate_pattern_schema.py
+
+# Generate Archetypal Pattern schema
+python3 generate_archetypal_schema.py
+```
+
+### Testing Schemas
+
+```bash
+# Test APL schema (if tests exist)
+python3 validate_schema.py
+
+# Test Archetypal schema
+python3 test_archetypal_schema.py
+```
+
+### Demo Schemas
+
+```bash
+# Demo APL schema
+python3 demo_pattern_schema.py
+
+# Demo Archetypal schema
+python3 demo_archetypal_schema.py
+```
+
+## OpenCog Atomese Representation
+
+The Pattern Language has been converted to OpenCog's Atomese format for knowledge representation and pattern matching:
+
+- **`opencog_atomese/`** - Complete Atomese hypergraph representation in Scheme format
+  - `pattern_language.scm` - Complete representation
+  - `meta_pattern.scm` - Meta-pattern
+  - `categories.scm` - Categories with InheritanceLinks
+  - `sequences.scm` - Sequences with MemberLinks
+  - **Enhanced Features:**
+    - `pattern_language_enhanced.scm` - Enhanced with diagrams, details, and connections
+    - `relationship_types.scm` - Pattern relationship types (complement, conflict, alternative)
+    - `patterns/` - Individual .scm files for modular loading
+
+The Atomese format enables:
+- Pattern matching and reasoning in OpenCog
+- Hypergraph queries for pattern relationships
+- Knowledge graph navigation and inference
+- Integration with AI/AGI systems
+
+See `opencog_atomese/README.md` for usage examples and `opencog_atomese/ENHANCEMENTS.md` for enhanced features documentation.
+
+## Paradigm & Language Analysis
+
+Comprehensive analysis of optimal implementation approaches for achieving cognitive "optimal grip" on the gestalt salience landscape:
+
+- **[PARADIGM_LANGUAGE_ANALYSIS.md](PARADIGM_LANGUAGE_ANALYSIS.md)** - Complete paradigm and language evaluation
+  - Analysis of 6 programming paradigms (hypergraph, functional, logic, OOP, constraint, agent-based)
+  - Evaluation of 6+ languages (Scheme, Datalog, Python, Haskell, JavaScript, Prolog)
+  - Cognitive affordances mapping
+  - Recommended multi-layer architecture
+  
+- **[IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md)** - Practical implementation guide
+  - Concrete code examples for each layer
+  - Datalog query system integration
+  - Haskell domain transformation engine
+  - Python salience computation
+  - D3.js visualization framework
+  
+- **[PARADIGM_COMPARISON_MATRIX.md](PARADIGM_COMPARISON_MATRIX.md)** - Detailed comparison matrices
+  - Cognitive requirements vs paradigms matrix
+  - Implementation tasks vs languages matrix
+  - Paradigm synergy analysis
+  - Use-case specific recommendations
+
+**Key Finding**: Multi-paradigm approach required - Hypergraph (Scheme/OpenCog) foundation + Datalog queries + Functional transformations (Haskell) + Python integration + JavaScript visualization provides optimal cognitive affordances.
+
+### Generating Atomese Files
+
+```bash
+# Generate base Atomese files
+python3 generate_opencog_atomese.py
+
+# Generate enhanced features
+python3 generate_enhanced_atomese.py
+```
+
+### Testing Atomese Files
+
+```bash
+# Test base files
+python3 test_opencog_atomese.py
+
+# Test enhanced features
+python3 test_enhanced_atomese.py
+```
+
+### Demo Enhanced Features
+
+```bash
+python3 demo_enhanced_atomese.py
+```
+
+### Demo Query System
+
+```bash
+# Demo Datalog query integration (requires pyDatalog)
+pip install pyDatalog
+python3 demo_datalog_queries.py
+```
