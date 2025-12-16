@@ -1,6 +1,6 @@
 # p235
 
-This repository contains collections of design patterns and organizational metaphors with formal specifications, including a **virtual hardware implementation (NPU-253)** for accelerated pattern operations.
+This repository contains collections of design patterns and organizational metaphors with formal specifications, including a **virtual hardware implementation (NPU-253)** for accelerated pattern operations and an **APL language implementation** for array-based pattern analysis.
 
 ## 🚀 NPU-253: Neural Processing Unit / Natural Patterning Unit
 
@@ -41,6 +41,52 @@ python3 demo_npu253.py
 # Run tests
 python3 test_npu253.py
 ```
+
+## 🔢 APL Language Implementation
+
+**NEW:** Array-based implementation in APL (A Programming Language)!
+
+APL is a powerful array-oriented language perfect for pattern analysis and transformations. This implementation leverages APL's concise array operations for efficient pattern queries.
+
+```apl
+⍝ Query patterns by category
+towns ← GetTownPatterns
+
+⍝ Transform archetypal pattern to domain
+social ← TransformToSocial pattern
+
+⍝ Find pattern relationships
+connected ← GetAllConnectedPatterns 1
+```
+
+**Features:**
+- ✨ 253 patterns as array-based data structures
+- 🔍 Fast array-based queries and filters
+- 🔄 Domain transformations (physical/social/conceptual/psychic)
+- 🔗 Relationship navigation and path finding
+- 📊 Pattern sequences and statistics
+- 🎯 ~1,900 lines of APL code
+
+**Documentation:**
+- [apl_language/README.md](apl_language/README.md) - Module overview
+- [apl_language/INSTALLATION.md](apl_language/INSTALLATION.md) - Complete installation and usage guide
+- [Demo](apl_language/demo.apl) | [Tests](test_apl_implementation.py)
+
+```bash
+# Run tests
+python3 test_apl_implementation.py
+
+# Generate data
+python3 generate_apl_data.py
+```
+
+**APL Files:**
+- `patterns.apl` - Core pattern data structures
+- `queries.apl` - Search and query operations
+- `transformations.apl` - Domain transformations
+- `relationships.apl` - Pattern relationship navigation
+- `demo.apl` - Interactive demonstrations
+- `data_loader.apl` - Pattern data initialization
 
 ## 📖 Documentation
 
