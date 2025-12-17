@@ -78,6 +78,7 @@ This is your central navigation hub for exploring the Pattern Language repositor
 - [QUICK_REFERENCE.md](QUICK_REFERENCE.md) - Essential commands
 - [CLAUDE.md](CLAUDE.md) - Developer guide
 - [NPU253_QUICK_REFERENCE.md](NPU253_QUICK_REFERENCE.md) - NPU guide
+- [.github/copilot-instructions.md](.github/copilot-instructions.md) - GitHub Copilot instructions
 
 **Key Patterns**: 28 (Eccentric Nucleus), 31 (Promenade)
 

@@ -336,6 +336,17 @@ Continue applying patterns:
 - Develop tools for pattern-based organization
 - Share lessons learned
 
+### AI & Collaboration
+
+**GitHub Copilot Integration**: The repository now includes [.github/copilot-instructions.md](.github/copilot-instructions.md), which applies Pattern Language principles to guide AI assistants when working with the codebase. This ensures that:
+- AI understands the meta-recursive structure
+- Suggestions respect the 8 independent regions
+- Navigation follows the network of paths principle
+- Assistance maintains the intimacy gradient
+- Changes preserve the living structure properties
+
+This makes the Pattern Language accessible not just to humans but to AI collaborators, extending the meta-recursive achievement into human-AI interaction.
+
 ## Conclusion
 
 This repository demonstrates that **the Pattern Language is not just about buildings**.
