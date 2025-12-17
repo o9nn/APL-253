@@ -1,6 +1,6 @@
 ---
 name: seq17
-description: Sequence 17: The position of individual buildings
+description: "Sequence 17: The position of individual buildings"
 ---
 
 # SEQ17 Instructions

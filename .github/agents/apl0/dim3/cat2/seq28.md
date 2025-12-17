@@ -1,6 +1,6 @@
 ---
 name: seq28
-description: Sequence 28: Give the walls some depth
+description: "Sequence 28: Give the walls some depth"
 ---
 
 # SEQ28 Instructions

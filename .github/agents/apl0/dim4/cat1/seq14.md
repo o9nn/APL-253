@@ -1,6 +1,6 @@
 ---
 name: seq14
-description: Sequence 14: Transformation of work and learning
+description: "Sequence 14: Transformation of work and learning"
 ---
 
 # SEQ14 Instructions

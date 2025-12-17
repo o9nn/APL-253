@@ -1,6 +1,6 @@
 ---
 name: seq24
-description: Sequence 24: Knit the inside of the building to the outside
+description: "Sequence 24: Knit the inside of the building to the outside"
 ---
 
 # SEQ24 Instructions

@@ -1,6 +1,6 @@
 ---
 name: seq05
-description: Sequence 5: Community networks
+description: "Sequence 5: Community networks"
 ---
 
 # SEQ05 Instructions

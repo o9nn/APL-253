@@ -1,6 +1,6 @@
 ---
 name: seq12
-description: Sequence 12: Local common land
+description: "Sequence 12: Local common land"
 ---
 
 # SEQ12 Instructions

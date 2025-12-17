@@ -1,6 +1,6 @@
 ---
 name: seq25
-description: Sequence 25: Arrange the gardens, and the places in the gardens
+description: "Sequence 25: Arrange the gardens, and the places in the gardens"
 ---
 
 # SEQ25 Instructions

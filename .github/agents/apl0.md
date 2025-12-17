@@ -1,6 +1,6 @@
 ---
 name: apl0
-description: Meta-Pattern 0: A Pattern Language
+description: "Meta-Pattern 0: A Pattern Language"
 ---
 
 # APL0 Instructions

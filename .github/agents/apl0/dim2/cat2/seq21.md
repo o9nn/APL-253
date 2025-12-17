@@ -1,6 +1,6 @@
 ---
 name: seq21
-description: Sequence 21: The most important areas and rooms (in a house)
+description: "Sequence 21: The most important areas and rooms (in a house)"
 ---
 
 # SEQ21 Instructions

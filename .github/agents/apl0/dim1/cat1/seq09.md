@@ -1,6 +1,6 @@
 ---
 name: seq09
-description: Sequence 9: Work
+description: "Sequence 9: Work"
 ---
 
 # SEQ09 Instructions

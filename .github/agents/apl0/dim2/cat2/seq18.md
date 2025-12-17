@@ -1,6 +1,6 @@
 ---
 name: seq18
-description: Sequence 18: Entrances, gardens, courtyards, roofs and terraces
+description: "Sequence 18: Entrances, gardens, courtyards, roofs and terraces"
 ---
 
 # SEQ18 Instructions

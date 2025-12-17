@@ -1,6 +1,6 @@
 ---
 name: seq29
-description: Sequence 29: Let the structure grow directly from your plans and your conception of the buildings
+description: "Sequence 29: Let the structure grow directly from your plans and your conception of the buildings"
 ---
 
 # SEQ29 Instructions

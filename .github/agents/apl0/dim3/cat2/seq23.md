@@ -1,6 +1,6 @@
 ---
 name: seq23
-description: Sequence 23: Outbuildings and access to the street and gardens
+description: "Sequence 23: Outbuildings and access to the street and gardens"
 ---
 
 # SEQ23 Instructions

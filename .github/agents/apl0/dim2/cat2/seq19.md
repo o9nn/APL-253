@@ -1,6 +1,6 @@
 ---
 name: seq19
-description: Sequence 19: Paths and squares
+description: "Sequence 19: Paths and squares"
 ---
 
 # SEQ19 Instructions

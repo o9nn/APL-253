@@ -1,6 +1,6 @@
 ---
 name: seq20
-description: Sequence 20: Gradients and connection of space
+description: "Sequence 20: Gradients and connection of space"
 ---
 
 # SEQ20 Instructions

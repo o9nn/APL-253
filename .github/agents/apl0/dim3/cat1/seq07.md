@@ -1,6 +1,6 @@
 ---
 name: seq07
-description: Sequence 7: Local centers
+description: "Sequence 7: Local centers"
 ---
 
 # SEQ07 Instructions

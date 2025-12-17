@@ -1,6 +1,6 @@
 ---
 name: seq03
-description: Sequence 3: Major structures which define the city
+description: "Sequence 3: Major structures which define the city"
 ---
 
 # SEQ03 Instructions
