@@ -1,4 +1,9 @@
-# Sequence 5: Community networks
+---
+name: seq05
+description: Sequence 5: Community networks
+---
+
+# SEQ05 Instructions
 
 ## Description
 Sequence 5 focuses on community networks

@@ -1,4 +1,9 @@
-# Sequence 33: Put in the following subsidiary patterns
+---
+name: seq33
+description: Sequence 33: Put in the following subsidiary patterns
+---
+
+# SEQ33 Instructions
 
 ## Description
 Sequence 33 focuses on put in the following subsidiary patterns

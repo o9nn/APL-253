@@ -1,4 +1,9 @@
-# Sequence 30: Work out the complete structural layout
+---
+name: seq30
+description: Sequence 30: Work out the complete structural layout
+---
+
+# SEQ30 Instructions
 
 ## Description
 Sequence 30 focuses on work out the complete structural layout

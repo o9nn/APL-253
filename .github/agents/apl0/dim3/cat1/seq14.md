@@ -1,4 +1,9 @@
-# Sequence 14: Transformation of work and learning
+---
+name: seq14
+description: Sequence 14: Transformation of work and learning
+---
+
+# SEQ14 Instructions
 
 ## Description
 Sequence 14 focuses on transformation of work and learning

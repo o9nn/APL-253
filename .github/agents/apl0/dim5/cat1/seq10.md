@@ -1,4 +1,9 @@
-# Sequence 10: Local road and path network
+---
+name: seq10
+description: Sequence 10: Local road and path network
+---
+
+# SEQ10 Instructions
 
 ## Description
 Sequence 10 focuses on local road and path network

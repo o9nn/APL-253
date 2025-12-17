@@ -1,4 +1,9 @@
-# Narrower Patterns for apl139
+---
+name: narrower
+description: Narrower Patterns for apl139
+---
+
+# NARROWER Instructions
 
 These patterns provide detail and are typically applied after this pattern:
 

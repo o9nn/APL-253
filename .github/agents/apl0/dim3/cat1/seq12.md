@@ -1,4 +1,9 @@
-# Sequence 12: Local common land
+---
+name: seq12
+description: Sequence 12: Local common land
+---
+
+# SEQ12 Instructions
 
 ## Description
 Sequence 12 focuses on local common land

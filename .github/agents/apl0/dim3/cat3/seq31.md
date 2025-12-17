@@ -1,4 +1,9 @@
-# Sequence 31: Mark the column locations and erect the main frame
+---
+name: seq31
+description: Sequence 31: Mark the column locations and erect the main frame
+---
+
+# SEQ31 Instructions
 
 ## Description
 Sequence 31 focuses on mark the column locations and erect the main frame

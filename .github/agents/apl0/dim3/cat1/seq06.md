@@ -1,4 +1,9 @@
-# Sequence 6: Character of local environments
+---
+name: seq06
+description: Sequence 6: Character of local environments
+---
+
+# SEQ06 Instructions
 
 ## Description
 Sequence 6 focuses on character of local environments

@@ -1,4 +1,9 @@
-# Sequence 32: Fix the exact positions for openings and frame them
+---
+name: seq32
+description: Sequence 32: Fix the exact positions for openings and frame them
+---
+
+# SEQ32 Instructions
 
 ## Description
 Sequence 32 focuses on fix the exact positions for openings and frame them

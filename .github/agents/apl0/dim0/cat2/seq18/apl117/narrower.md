@@ -1,4 +1,9 @@
-# Narrower Patterns for apl117
+---
+name: narrower
+description: Narrower Patterns for apl117
+---
+
+# NARROWER Instructions
 
 These patterns provide detail and are typically applied after this pattern:
 

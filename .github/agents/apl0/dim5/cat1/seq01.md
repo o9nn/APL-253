@@ -1,4 +1,9 @@
-# Sequence 1: Regions instead of countries
+---
+name: seq01
+description: Sequence 1: Regions instead of countries
+---
+
+# SEQ01 Instructions
 
 ## Description
 Sequence 1 focuses on regions instead of countries

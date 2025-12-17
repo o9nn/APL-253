@@ -1,4 +1,9 @@
-# Sequence 17: The position of individual buildings
+---
+name: seq17
+description: Sequence 17: The position of individual buildings
+---
+
+# SEQ17 Instructions
 
 ## Description
 Sequence 17 focuses on the position of individual buildings

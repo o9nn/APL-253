@@ -1,4 +1,9 @@
-# dim4 - Conceptual Dimension
+---
+name: dim4
+description: dim4 - Conceptual Dimension
+---
+
+# DIM4 Instructions
 
 ## Description
 Knowledge, theoretical, and paradigmatic patterns in abstract domains

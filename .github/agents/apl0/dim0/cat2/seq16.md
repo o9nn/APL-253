@@ -1,4 +1,9 @@
-# Sequence 16: The overall arrangement of a group of buildings
+---
+name: seq16
+description: Sequence 16: The overall arrangement of a group of buildings
+---
+
+# SEQ16 Instructions
 
 ## Description
 Sequence 16 focuses on the overall arrangement of a group of buildings

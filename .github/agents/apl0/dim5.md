@@ -1,4 +1,9 @@
-# dim5 - Interpersonal Dimension
+---
+name: dim5
+description: dim5 - Interpersonal Dimension
+---
+
+# DIM5 Instructions
 
 ## Description
 Awareness, consciousness, and mental patterns in human psychology

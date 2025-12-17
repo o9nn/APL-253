@@ -1,4 +1,9 @@
-# Sequence 8: Housing
+---
+name: seq08
+description: Sequence 8: Housing
+---
+
+# SEQ08 Instructions
 
 ## Description
 Sequence 8 focuses on housing

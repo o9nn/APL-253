@@ -1,4 +1,9 @@
-# Sequence 28: Give the walls some depth
+---
+name: seq28
+description: Sequence 28: Give the walls some depth
+---
+
+# SEQ28 Instructions
 
 ## Description
 Sequence 28 focuses on give the walls some depth

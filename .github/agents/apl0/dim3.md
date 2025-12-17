@@ -1,4 +1,9 @@
-# dim3 - Social Dimension
+---
+name: dim3
+description: dim3 - Social Dimension
+---
+
+# DIM3 Instructions
 
 ## Description
 Organizational, community, and institutional patterns in social systems
