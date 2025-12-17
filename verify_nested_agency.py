@@ -9,7 +9,9 @@ from pathlib import Path
 def verify_structure():
     """Verify the complete nested agency structure"""
     
-    base_path = Path("/home/runner/work/apl253/apl253/.github/agents")
+    # Get the repository root directory dynamically
+    repo_root = Path(__file__).parent.resolve()
+    base_path = repo_root / ".github" / "agents"
     
     # Check meta-pattern
     assert (base_path / "apl0.md").exists(), "Meta-pattern file apl0.md not found"
