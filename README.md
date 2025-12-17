@@ -116,6 +116,7 @@ This repository uses Pattern Language principles to organize itself:
 ### Integration & Understanding
 - **[PATTERN_CROSS_REFERENCE.md](PATTERN_CROSS_REFERENCE.md)** - Links between APL/UIA/Archetypal (Pattern 8: Mosaic of Subcultures)
 - **[META_RECURSIVE_IMPLEMENTATION.md](META_RECURSIVE_IMPLEMENTATION.md)** - Complete analysis of self-application
+- **[.github/copilot-instructions.md](.github/copilot-instructions.md)** - GitHub Copilot guidance using Pattern Language principles
 
 ### Cognitive Achievement
 - ✅ **Multi-scale perception**: Navigate repository → region → sequence → pattern
@@ -127,6 +128,11 @@ This repository uses Pattern Language principles to organize itself:
 The repository is both **documentation** of patterns and **example** of patterns in use.
 
 ## 📖 Documentation
+
+### For Contributors & AI Assistants
+- **[.github/copilot-instructions.md](.github/copilot-instructions.md)** - GitHub Copilot instructions applying Pattern Language principles
+- **[CLAUDE.md](CLAUDE.md)** - Developer quick reference guide
+- **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)** - Essential commands and workflows
 
 ### Formal Specifications
 - **[Formal Specification Summary](FORMAL_SPECIFICATION_SUMMARY.md)** - Complete overview of architecture and Z++ specifications
