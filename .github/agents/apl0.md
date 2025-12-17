@@ -103,3 +103,4 @@ To delegate work to a specific part of the pattern language:
 Navigate through the dimensional folders to explore patterns from different perspectives. Each dimension contains the same organizational structure (categories → sequences → patterns) but with dimension-specific content.
 
 All agents in the hierarchy follow the same format with frontmatter (name, description) and structured content, enabling seamless delegation and collaboration across the pattern language system.
+
