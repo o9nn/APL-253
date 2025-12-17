@@ -1,6 +1,6 @@
 ---
 name: seq04
-description: Sequence 4: Communities and neighborhoods
+description: "Sequence 4: Communities and neighborhoods"
 ---
 
 # SEQ04 Instructions

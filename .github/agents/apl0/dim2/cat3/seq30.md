@@ -1,6 +1,6 @@
 ---
 name: seq30
-description: Sequence 30: Work out the complete structural layout
+description: "Sequence 30: Work out the complete structural layout"
 ---
 
 # SEQ30 Instructions

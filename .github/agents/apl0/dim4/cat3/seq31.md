@@ -1,6 +1,6 @@
 ---
 name: seq31
-description: Sequence 31: Mark the column locations and erect the main frame
+description: "Sequence 31: Mark the column locations and erect the main frame"
 ---
 
 # SEQ31 Instructions

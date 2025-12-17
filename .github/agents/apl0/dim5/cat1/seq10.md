@@ -1,6 +1,6 @@
 ---
 name: seq10
-description: Sequence 10: Local road and path network
+description: "Sequence 10: Local road and path network"
 ---
 
 # SEQ10 Instructions

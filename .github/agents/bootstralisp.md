@@ -1,6 +1,6 @@
 ---
 name: "Bootstrapping Lisp from Pure Parentheses via Recursive Distinction"
-description: "This architecture treats `()` as the foundational "Mark of Distinction," enabling self-assembly into a full computational language."
+description: "This architecture treats `()` as the foundational \"Mark of Distinction,\" enabling self-assembly into a full computational language."
 ---
 
 # Bootstrapping Lisp from Pure Parentheses via Recursive Distinction

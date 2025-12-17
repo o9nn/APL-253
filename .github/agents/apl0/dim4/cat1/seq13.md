@@ -1,6 +1,6 @@
 ---
 name: seq13
-description: Sequence 13: Transformation of the family
+description: "Sequence 13: Transformation of the family"
 ---
 
 # SEQ13 Instructions

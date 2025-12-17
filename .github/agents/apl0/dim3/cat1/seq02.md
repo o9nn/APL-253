@@ -1,6 +1,6 @@
 ---
 name: seq02
-description: Sequence 2: Regional policies
+description: "Sequence 2: Regional policies"
 ---
 
 # SEQ02 Instructions

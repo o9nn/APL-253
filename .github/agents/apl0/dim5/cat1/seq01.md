@@ -1,6 +1,6 @@
 ---
 name: seq01
-description: Sequence 1: Regions instead of countries
+description: "Sequence 1: Regions instead of countries"
 ---
 
 # SEQ01 Instructions

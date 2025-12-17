@@ -1,6 +1,6 @@
 ---
 name: seq32
-description: Sequence 32: Fix the exact positions for openings and frame them
+description: "Sequence 32: Fix the exact positions for openings and frame them"
 ---
 
 # SEQ32 Instructions

@@ -1,6 +1,6 @@
 ---
 name: seq34
-description: Sequence 34: Put in the surfaces and indoor details
+description: "Sequence 34: Put in the surfaces and indoor details"
 ---
 
 # SEQ34 Instructions

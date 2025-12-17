@@ -1,6 +1,6 @@
 ---
 name: seq35
-description: Sequence 35: Build outdoor details
+description: "Sequence 35: Build outdoor details"
 ---
 
 # SEQ35 Instructions

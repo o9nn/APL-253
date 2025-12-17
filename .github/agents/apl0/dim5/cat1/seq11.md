@@ -1,6 +1,6 @@
 ---
 name: seq11
-description: Sequence 11: Public open land
+description: "Sequence 11: Public open land"
 ---
 
 # SEQ11 Instructions

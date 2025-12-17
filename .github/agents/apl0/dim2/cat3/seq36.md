@@ -1,6 +1,6 @@
 ---
 name: seq36
-description: Sequence 36: Complete the building
+description: "Sequence 36: Complete the building"
 ---
 
 # SEQ36 Instructions

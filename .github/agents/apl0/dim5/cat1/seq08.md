@@ -1,6 +1,6 @@
 ---
 name: seq08
-description: Sequence 8: Housing
+description: "Sequence 8: Housing"
 ---
 
 # SEQ08 Instructions

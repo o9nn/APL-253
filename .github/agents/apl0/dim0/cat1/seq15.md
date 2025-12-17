@@ -1,6 +1,6 @@
 ---
 name: seq15
-description: Sequence 15: Transformation of local shops and gathering places
+description: "Sequence 15: Transformation of local shops and gathering places"
 ---
 
 # SEQ15 Instructions
