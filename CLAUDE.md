@@ -103,6 +103,7 @@ flowchart LR
 
 | Diagram | Description |
 |---------|-------------|
+| `generalized-pattern.mmd` | Anatomy of a single pattern (Context → Problem → Solution → Connections) |
 | `pattern-language-hierarchy.mmd` | Three categories: Towns, Buildings, Construction |
 | `pattern-sequences.mmd` | 36 sequences from regional planning to completion |
 | `domain-transformations.mmd` | Physical, Social, Conceptual, Psychic domains |
