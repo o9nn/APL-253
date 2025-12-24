@@ -104,6 +104,8 @@ flowchart LR
 | Diagram | Description |
 |---------|-------------|
 | `generalized-pattern.mmd` | Anatomy of a single pattern (Context → Problem → Solution → Connections) |
+| `pattern-aiml-implementation.mmd` | AIML rule-based implementation of pattern matching |
+| `pattern-pytorch-implementation.mmd` | PyTorch neural network with tensor embeddings |
 | `pattern-language-hierarchy.mmd` | Three categories: Towns, Buildings, Construction |
 | `pattern-sequences.mmd` | 36 sequences from regional planning to completion |
 | `domain-transformations.mmd` | Physical, Social, Conceptual, Psychic domains |
