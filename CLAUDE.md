@@ -71,6 +71,109 @@ Domain transformations:
 /opencog_atomese/        # OpenCog Atomese Scheme representations
   /patterns/             # Individual .scm files
 /docs/                   # Technical documentation (Z++ specs, diagrams)
+/diagrams/               # Mermaid (.mmd) visualization diagrams
+/implementations/        # Pattern implementations (AIML, PyTorch, Mermaid)
+```
+
+## Diagrams
+
+The `/diagrams/` directory contains Mermaid diagrams for visualizing the pattern language:
+
+### Pattern Language Hierarchy
+```mermaid
+graph TB
+    P0[("Pattern Language<br/>253 Patterns")]
+    TOWNS["TOWNS (1-94)"]
+    BUILDINGS["BUILDINGS (95-204)"]
+    CONSTRUCTION["CONSTRUCTION (205-253)"]
+    P0 --> TOWNS --> BUILDINGS --> CONSTRUCTION
+```
+
+### Domain Transformations
+```mermaid
+flowchart LR
+    A["Archetypal Pattern<br/>{{placeholders}}"]
+    P["Physical"]
+    S["Social"]
+    C["Conceptual"]
+    Y["Psychic"]
+    A --> P & S & C & Y
+```
+
+### Available Diagrams
+
+| Diagram | Description |
+|---------|-------------|
+| `generalized-pattern.mmd` | Anatomy of a single pattern (Context → Problem → Solution → Connections) |
+| `pattern-aiml-implementation.mmd` | AIML rule-based implementation of pattern matching |
+| `pattern-pytorch-implementation.mmd` | PyTorch neural network with tensor embeddings |
+| `pattern-language-hierarchy.mmd` | Three categories: Towns, Buildings, Construction |
+| `pattern-sequences.mmd` | 36 sequences from regional planning to completion |
+| `domain-transformations.mmd` | Physical, Social, Conceptual, Psychic domains |
+| `architecture-layers.mmd` | System architecture (Presentation → Foundation) |
+| `pattern-relationships.mmd` | Hierarchy, sequence, dependency, emergence links |
+| `placeholder-system.mmd` | 10 core placeholders and domain mappings |
+| `data-flow.mmd` | Source → Generator → Output pipeline |
+| `cognitive-affordances.mmd` | Mind map of "optimal grip" concepts |
+
+### Viewing Diagrams
+
+```bash
+# View in Mermaid Live Editor
+cat diagrams/pattern-sequences.mmd
+# Paste output at: https://mermaid.live/
+
+# Generate SVG (requires mermaid-cli)
+npx @mermaid-js/mermaid-cli mmdc -i diagrams/pattern-sequences.mmd -o pattern-sequences.svg
+```
+
+## Implementations
+
+The `/implementations/` directory contains executable pattern implementations:
+
+### Patterns 1-7: Regional Policies
+
+| File | Format | Description |
+|------|--------|-------------|
+| `patterns-001-007.mmd` | Mermaid | Visual diagram of patterns and relationships |
+| `patterns-001-007.aiml` | AIML 2.0 | Rule-based chatbot for pattern navigation |
+| `patterns_001_007_nn.py` | PyTorch | Neural network with embeddings and GNN |
+
+### Running Implementations
+
+```bash
+# Run PyTorch neural network demo
+python3 implementations/patterns_001_007_nn.py
+
+# View Mermaid diagram
+cat implementations/patterns-001-007.mmd
+```
+
+### AIML Structure
+```xml
+<category>
+  <pattern>INDEPENDENT REGIONS</pattern>
+  <template>
+    Pattern 1: Work toward independent regions
+    with 2-10 million people each...
+    <srai>LIST FOLLOWING PATTERNS 1</srai>
+  </template>
+</category>
+```
+
+### PyTorch Model Architecture
+```
+PatternLanguageModel
+├── PatternEncoder (text + embeddings)
+│   ├── PatternEmbedding(253, 128)
+│   ├── ConfidenceEmbedding(3, 32)
+│   ├── ProblemEncoder (BiLSTM)
+│   └── SolutionEncoder (BiLSTM)
+├── PatternGNN (graph convolution)
+└── Output Heads
+    ├── NextPatternHead → predict following patterns
+    ├── CategoryHead → classify Towns/Buildings/Construction
+    └── SimilarityHead → compute pattern similarity
 ```
 
 ## Tech Stack
@@ -78,6 +181,9 @@ Domain transformations:
 - **JSON** - Data storage and schema definitions
 - **Scheme** - OpenCog Atomese knowledge representation
 - **Markdown** - Documentation and pattern text
+- **Mermaid** - Diagram visualization (.mmd files)
+- **AIML** - Rule-based pattern matching chatbot
+- **PyTorch** - Neural network pattern embeddings
 
 ## Code Conventions
 
