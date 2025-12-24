@@ -71,6 +71,56 @@ Domain transformations:
 /opencog_atomese/        # OpenCog Atomese Scheme representations
   /patterns/             # Individual .scm files
 /docs/                   # Technical documentation (Z++ specs, diagrams)
+/diagrams/               # Mermaid (.mmd) visualization diagrams
+```
+
+## Diagrams
+
+The `/diagrams/` directory contains Mermaid diagrams for visualizing the pattern language:
+
+### Pattern Language Hierarchy
+```mermaid
+graph TB
+    P0[("Pattern Language<br/>253 Patterns")]
+    TOWNS["TOWNS (1-94)"]
+    BUILDINGS["BUILDINGS (95-204)"]
+    CONSTRUCTION["CONSTRUCTION (205-253)"]
+    P0 --> TOWNS --> BUILDINGS --> CONSTRUCTION
+```
+
+### Domain Transformations
+```mermaid
+flowchart LR
+    A["Archetypal Pattern<br/>{{placeholders}}"]
+    P["Physical"]
+    S["Social"]
+    C["Conceptual"]
+    Y["Psychic"]
+    A --> P & S & C & Y
+```
+
+### Available Diagrams
+
+| Diagram | Description |
+|---------|-------------|
+| `pattern-language-hierarchy.mmd` | Three categories: Towns, Buildings, Construction |
+| `pattern-sequences.mmd` | 36 sequences from regional planning to completion |
+| `domain-transformations.mmd` | Physical, Social, Conceptual, Psychic domains |
+| `architecture-layers.mmd` | System architecture (Presentation → Foundation) |
+| `pattern-relationships.mmd` | Hierarchy, sequence, dependency, emergence links |
+| `placeholder-system.mmd` | 10 core placeholders and domain mappings |
+| `data-flow.mmd` | Source → Generator → Output pipeline |
+| `cognitive-affordances.mmd` | Mind map of "optimal grip" concepts |
+
+### Viewing Diagrams
+
+```bash
+# View in Mermaid Live Editor
+cat diagrams/pattern-sequences.mmd
+# Paste output at: https://mermaid.live/
+
+# Generate SVG (requires mermaid-cli)
+npx @mermaid-js/mermaid-cli mmdc -i diagrams/pattern-sequences.mmd -o pattern-sequences.svg
 ```
 
 ## Tech Stack
@@ -78,6 +128,7 @@ Domain transformations:
 - **JSON** - Data storage and schema definitions
 - **Scheme** - OpenCog Atomese knowledge representation
 - **Markdown** - Documentation and pattern text
+- **Mermaid** - Diagram visualization (.mmd files)
 
 ## Code Conventions
 
